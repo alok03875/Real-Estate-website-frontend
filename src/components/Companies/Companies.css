@@ -1,0 +1,9 @@
+
+.com-container{
+    justify-content: space-around!important;
+    gap: 1rem!important;
+}
+
+.com-container>img{
+    width: 9rem;
+}
